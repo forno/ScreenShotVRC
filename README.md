@@ -5,7 +5,7 @@ ScreenShot with Steam
 ## Out Line
 
 - Install VaNiiMenu
-- Install RecordVRCWithGeForceExperience
+- Install ScreenShotVRC
 - Setup the VaNiiMenu
 
 ## Install VaNiiMenu
