@@ -23,7 +23,7 @@ Please fix `/path/to/VaNiiMenu/config/Launcher.json` with
 "App1": {
 	"ApplicationName": "ScreenShot VRC",
 	"FilePath": "screenShotVRC.bat",
-	"WorkingDirectory": "C:\\screenShotVRC",
+	"WorkingDirectory": "C:\\ScreenShotVRC",
 	"Arguments": "",
 	"StartupDialogMainText": "Take screen shot?",
 	"StartupDialogSubText": "stream cameraでのスクショ"
